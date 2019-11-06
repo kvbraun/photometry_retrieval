@@ -1,2 +1,2 @@
-### Photometry Retrival Script
+### Photometry Retrieval Script
 
